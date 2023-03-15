@@ -4,7 +4,7 @@
 #
 Name     : R-logger
 Version  : 0.2.2
-Release  : 8
+Release  : 9
 URL      : https://cran.r-project.org/src/contrib/logger_0.2.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/logger_0.2.2.tar.gz
 Summary  : A Lightweight, Modern and Flexible Logging Utility
